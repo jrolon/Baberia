@@ -10,7 +10,7 @@ export default class Boiler extends Component {
     headerLeft: null
   };
   render() {
-    return <Text>OLA</Text>;
+    return <Text>Oso el mejor</Text>;
   }
 }
 
